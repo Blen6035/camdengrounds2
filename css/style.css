@@ -42,7 +42,7 @@ p a {
 	color: #d5af87;
 }
 p a:hover {
-	color: #bfcb75;
+	color: turquoise;
 }
 #page {
 	background: url(../images/bg-page.png) repeat;
@@ -86,7 +86,7 @@ p a:hover {
 }
 #page div div#header ul li.current a,
 #page div div#header ul li a:hover {
-	border-bottom: 5px solid #a2b83c;
+	border-bottom: 5px solid turquoise;
 }
 #page div div#body {
 	background: url(../images/separator-long.png) no-repeat bottom center;
@@ -98,7 +98,7 @@ p a:hover {
 	position: relative;
 }
 #page div div#body div#figure span {
-	color: #dade7d;
+	color: turquoise;
 	display: block;
 	font-size: 35px;
 	left: 50px;
@@ -151,7 +151,7 @@ p a:hover {
 	margin: 0 0 20px;
 }
 #page div div#body div div h3 {
-	color: #858f48;
+	color: turquoise;
 	font-family: 'UltraRegular';
 	font-size: 20px;
 	font-weight: normal;
@@ -165,7 +165,7 @@ p a:hover {
 	width: 330px;
 }
 #page div div#body div div dl dt {
-	color: #a2b83d;
+	color: turquoise;
 	font-family: 'UltraRegular';
 	font-size: 16px;
 	letter-spacing: -0.025em;
@@ -199,7 +199,7 @@ p a:hover {
 	width: 142px;
 }
 #page div div#body div div ul li div a {
-	color: #bfcb75;
+	color: turquoise;
 	display: block;
 	font-family: 'UltraRegular';
 	font-size: 14px;
@@ -337,14 +337,14 @@ p a:hover {
 	width: 375px;
 }
 #page div div#body div div#blog ul:first-child li div h1 a {
-	color: #858F48;
+	color: turquoise;
 	display: block;
 	font-size: inherit;
 	padding: 17px 0 0;
 	text-decoration: none;
 }
 #page div div#body div div#blog ul:first-child li a.readmore {
-	color: #bcc680;
+	color: turquoise;
 	display: inline-block;
 	font-family: 'UltraRegular';
 	font-size: 10px;
@@ -386,7 +386,7 @@ p a:hover {
 	margin: 0;
 }
 #page div div#body div div#blog ul li h2 a {
-	color: #869048;
+	color: turquoise;
 	text-decoration: none;
 }
 #page div div#body div div#blog ul li span.date {
@@ -455,7 +455,7 @@ p a:hover {
 	padding: 10px 0 13px;
 }
 #page div div#body div.section ul li h2 a {
-	color: #899148;
+	color: turquoise;
 	display: inline-block;
 	text-decoration: none;
 }
@@ -468,7 +468,7 @@ p a:hover {
 }
 #page div div#body div.section ul li a.readmore {
 	background: url(../images/icon-arrow.png) no-repeat left center;
-	color: #b0c26d;
+	color: turquoise;
 	display: inline-block;
 	float: right;
 	font-size: 10px;
@@ -525,11 +525,11 @@ p a:hover {
 	padding: 0 5px 0 20px;
 }
 #page div div#body div.section div ul li h3 a {
-	color: #9daf4b;
+	color: turquoise;
 	text-decoration: none;
 }
 #page div div#body div.section div ul li span {
-	color: #cbca75;
+	color: turquoise;
 	display: block;
 	font-family: 'UltraRegular';
 	font-size: 10px;
@@ -546,7 +546,7 @@ p a:hover {
 }
 #page div div#body div.section div ul li a.readmore {
 	background: none;
-	color: #b0c26d;
+	color: turquoise;
 	display: inline-block;
 	float: none;
 	font-family: 'open_sansregular';
@@ -610,7 +610,7 @@ p a:hover {
 	text-align: center;
 }
 #page div div#footer div.section ul li.current a {
-	color: #becb73;
+	color: turquoise;
 	border-bottom: 2px solid #e8e7cb;
 }
 #page div div#footer div.section ul li:first-child {
@@ -629,7 +629,7 @@ p a:hover {
 	color: #c6a971;
 }
 #page div div#footer div.section p a:hover {
-	color: #91a130;
+	color: turquoise;
 }
 #page div div#footer div.section div#connect {
 	background: none;
