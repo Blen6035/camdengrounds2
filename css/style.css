@@ -115,7 +115,6 @@ p a:hover {
 	width: 590px;
 }
 #page div div#body div#figure span#home a {
-	background: url(../images/bg-find-out.png) repeat;
 	color: #f6f1e7;
 	display: inline-block;
 	font-size: 14px;
@@ -129,7 +128,7 @@ p a:hover {
 	vertical-align: middle;
 }
 #page div div#body div#figure span#home a:hover {
-	background: url(../images/bg-find-out-hover.png) repeat;
+
 }
 #page div div#body div {
 	background: none;
